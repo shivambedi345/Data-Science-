@@ -1,0 +1,10 @@
+{
+    "name": "Alice",
+    "age": 30,
+    "city": "New York",
+    "marks": [
+        85,
+        90,
+        95
+    ]
+}
